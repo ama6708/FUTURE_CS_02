@@ -1,7 +1,6 @@
 # FUTURE_CS_02
 
 📌 Overview
-
 This project focuses on analyzing phishing emails and identifying common attack patterns used by cybercriminals. The goal is to improve user awareness and help prevent phishing attacks.
 
 🎯 Objectives
@@ -10,12 +9,13 @@ Identify phishing indicators
 Classify risk levels
 Explain how phishing attacks work
 Provide prevention guidelines
+
 🛠️ Tools Used
 Google Message Header Analyzer
 MXToolbox Email Header Analyzer
 Web browser tools for link inspection
-🔍 Analysis Approach
 
+🔍 Analysis Approach
 Each phishing email was analyzed based on:
 
 Sender information
@@ -30,8 +30,8 @@ Most phishing emails use urgency and fear tactics
 Fake links are commonly used to steal user data
 Attackers impersonate trusted organizations
 Human behavior is the main target of phishing attacks
-🛡️ Prevention
 
+🛡️ Prevention
 Users should:
 
 Verify email senders
